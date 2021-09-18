@@ -7,24 +7,24 @@
 
 ### 1. DFS & BFS
 
-- [DFS](/1. DFS&BFS/DFS)
-- [BFS](/1. DFS&BFS/BFS)
+- [DFS](Algorithm/1.DFS&BFS/DFS)
+- [BFS](Algorithm/1.DFS&BFS/BFS)
 
 ### 2. Sorting (정렬)
 
-- [Python Sort Library](/2. Sorting/python_sort_library.py)
-- [Selection Sort](/2. Sorting/selection_sort.py)
-- [Insertion Sort](/2. Sorting/insertion_sort.py)
-- [Quick Sort](//2. Sorting/quick_sort.py)
-- [Counting Sort](//2. Sorting/counting_sort.py)
+- [Python Sort Library](Algorithm/2.Sorting/python_sort_library.py)
+- [Selection Sort](Algorithm/2.Sorting/selection_sort.py)
+- [Insertion Sort](Algorithm/2.Sorting/insertion_sort.py)
+- [Quick Sort](Algorithm/2.Sorting/quick_sort.py)
+- [Counting Sort](Algorithm/2.Sorting/counting_sort.py)
 
 ### 3. Searching (탐색)
 
-- [Binary Search](/3. Searching/BinarySearch.py)
+- [Binary Search](Algorithm/3.Searching/BinarySearch.py)
 
 ### 4. Dynamic Programming (동적 프로그래밍)
 
-- [DynamicProgramming](/4. Dynamic Programming/DynamicProgramming.py)
+- [DynamicProgramming](Algorithm/4.Dynamic Programming/DynamicProgramming.py)
 
 ### 5. Shortest path (최단경로)
 
