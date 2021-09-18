@@ -20,7 +20,7 @@
 
 ## 3. Searching (탐색)
 
-- [Binary Search](Algorithm/3. Searching\BinarySearch.py)
+- [Binary Search](/Algorithm/3. Searching\BinarySearch.py)
 
 ## 4. Dynamic Programming (동적 프로그래밍)
 
