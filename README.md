@@ -24,7 +24,7 @@
 
 ### 4. Dynamic Programming (동적 프로그래밍)
 
-- [DynamicProgramming](Algorithm/4.Dynamic Programming/DynamicProgramming.py)
+- [DynamicProgramming](Algorithm/4.DynamicProgramming/DynamicProgramming.py)
 
 ### 5. Shortest path (최단경로)
 
@@ -35,7 +35,7 @@
 
 - [DisjointSets](Algorithm/6.GraphTheory/DisjointSets.py)
 - [Kruskal](Algorithm/6.GraphTheory/KruskalAlgorithm.py)
-- [Topology](Algorithm/6.GraphTheory/Topology Algorithm.py)
+- [Topology](Algorithm/6.GraphTheory/TopologyAlgorithm.py)
 
 ### 7. Algorithm Theory (기타 알고리즘)
 
