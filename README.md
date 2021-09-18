@@ -20,11 +20,11 @@
 
 ## 3. Searching (탐색)
 
-- [Binary Search](/3. Searching\BinarySearch.py)
+- [Binary Search](Algorithm/3. Searching\BinarySearch.py)
 
 ## 4. Dynamic Programming (동적 프로그래밍)
 
-- [DynamicProgramming](\4. Dynamic Programming\DynamicProgramming.py)
+- [DynamicProgramming](Algorithm\4. Dynamic Programming\DynamicProgramming.py)
 
 ## 5. Shortest path (최단경로)
 
