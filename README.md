@@ -1,7 +1,9 @@
 # Programming_Team_Note
 
 - This repository is a python library for PS(Problem-Solving) Competition
-- 코딩 테스트를 위한 알고리즘 노트입니다. (출처: 이것이 코딩테스트다(나동빈 저 ))
+- 코딩 테스트를 위한 알고리즘 노트입니다. 
+
+> (출처: 이것이 코딩테스트다(나동빈 저 ))
 
 # Algorithm
 
