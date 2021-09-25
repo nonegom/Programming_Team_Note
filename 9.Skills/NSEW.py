@@ -1,4 +1,4 @@
-# 격자 공간에서 캐릭터를 움직이는 게임 생성
+## 동서남북 방향이 주어진 경우 방향을 정하는 방법
 
 n, m = 4, 4 # map(int, input().split())
 x, y, position = 1, 1, 0 # map(int, input().split())
@@ -9,6 +9,7 @@ for i in range(m):
     game_map.append(list(map(int,input().split())))
     
 # 방향 전환
+
 # 북 동 남 서 
 direction = [0, 1, 2, 3]
 dx = [0, 1, 0, -1]

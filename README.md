@@ -7,49 +7,49 @@
 
 ### 1. DFS & BFS
 
-- [DFS](Algorithm/1.DFS&BFS/DFS.py)
-- [BFS](Algorithm/1.DFS&BFS/BFS.py)
+- [DFS](1.DFS&BFS/DFS.py)
+- [BFS](1.DFS&BFS/BFS.py)
 
 ### 2. Sorting (정렬)
 
-- [Python Sort Library](Algorithm/2.Sorting/sort_library.py)
-- [Selection Sort](Algorithm/2.Sorting/selection_sort.py)
-- [Insertion Sort](Algorithm/2.Sorting/insertion_sort.py)
-- [Quick Sort](Algorithm/2.Sorting/quick_sort.py)
-- [Counting Sort](Algorithm/2.Sorting/counting_sort.py)
+- [Python Sort Library](2.Sorting/sort_library.py)
+- [Selection Sort](2.Sorting/selection_sort.py)
+- [Insertion Sort](2.Sorting/insertion_sort.py)
+- [Quick Sort](2.Sorting/quick_sort.py)
+- [Counting Sort](2.Sorting/counting_sort.py)
 
 ### 3. Searching (탐색)
 
-- [Binary Search](Algorithm/3.Searching/BinarySearch.py)
+- [Binary Search](3.Searching/BinarySearch.py)
 
 ### 4. Dynamic Programming (동적 프로그래밍)
 
-- [DynamicProgramming](Algorithm/4.DynamicProgramming/DynamicProgramming.py)
+- [DynamicProgramming](4.DynamicProgramming/DynamicProgramming.py)
 
 ### 5. Shortest path (최단경로)
 
-- [Dijkstra](Algorithm/5.ShortestPath/Dijkstra.py)
-- [Floyd-Warshall](Algorithm/5.ShortestPath/Floyd-Warshall.py)
+- [Dijkstra](5.ShortestPath/Dijkstra.py)
+- [Floyd-Warshall](5.ShortestPath/Floyd-Warshall.py)
 
 ### 6. Graph Theory (그래프 이론)
 
-- [DisjointSets](Algorithm/6.GraphTheory/DisjointSets.py)
-- [Kruskal](Algorithm/6.GraphTheory/KruskalAlgorithm.py)
-- [Topology](Algorithm/6.GraphTheory/TopologyAlgorithm.py)
+- [DisjointSets](6.GraphTheory/DisjointSets.py)
+- [Kruskal](6.GraphTheory/KruskalAlgorithm.py)
+- [Topology](6.GraphTheory/TopologyAlgorithm.py)
 
 ### 7. Algorithm Theory (기타 알고리즘)
 
-- [PartitionSum](Algorithm/7.AlgorithmTheory/PartitionSum.py)
-- [PrimeNumber](Algorithm/7.AlgorithmTheory/PrimeNumber.py)
-- [TwoPointer](Algorithm/7.AlgorithmTheory/TwoPointers.py)
+- [PartitionSum](7.AlgorithmTheory/PartitionSum.py)
+- [PrimeNumber](7.AlgorithmTheory/PrimeNumber.py)
+- [TwoPointer](7.AlgorithmTheory/TwoPointers.py)
 
 ### 8. Library (라이브러리) 
 
-- [BasicLibrary](Algorithm/8.Library/BasicLibrary.py)
-- [collections](Algorithm/8.Library/collections.py)
-- [itertools](Algorithm/8.Library/itertools.py)
-- [heapq](Algorithm/8.Library/heapq.py)
-- [bisect](Algorithm/8.Library/bisect.py)
+- [BasicLibrary](8.Library/BasicLibrary.py)
+- [collections](8.Library/collections.py)
+- [itertools](8.Library/itertools.py)
+- [heapq](8.Library/heapq.py)
+- [bisect](8.Library/bisect.py)
 
 
 ## Comments
