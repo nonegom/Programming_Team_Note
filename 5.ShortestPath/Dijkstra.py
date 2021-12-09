@@ -11,10 +11,6 @@ for _ in range(m):
     a, b, c = map(int, input().split())
     graph[a].append((b, c))
     
-for _ in range(m):
-    a, b, c = map(int, input().split())
-    graph[a].append((b, c))
-    
 # 해당 함수 코드를 외우면 된다.
 def dijkstra(start):
     q = []
